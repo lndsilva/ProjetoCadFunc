@@ -12,7 +12,7 @@
 <body>
 	<div  class="alert alert-primary" role="alert">Gerenciar Funcionários</div>
 
-		 <div class="container border border-primary bg-info">
+		 <div class="container border border-primary">
 		 	<div class="form-group">
 		 		<label class="col-md-2 control-label" for="Nome">Nome <h11>*</h11></label>
 		 		<div class="col-md-8">
