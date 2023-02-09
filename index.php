@@ -11,7 +11,9 @@
 </head>
 <body>
 
-	 <div class="panel-heading">Gerenciar Funcionários</div>
+	 <div  class="alert alert-primary" role="alert">Gerenciar Funcionários</div>
+
+	 <div class="container border border-primary bg-info">
 
 	<div class="form-group">
 		<label class="col-md-2 control-label" for="Nome">Nome <h11>*</h11></label>
@@ -54,6 +56,8 @@
 
     <button id="Cancelar" name="Cancelar" class="btn btn-danger" type="Reset">Cancelar</button>
   </div>
+</div>
+
 </div>
 
 
